@@ -10,3 +10,8 @@ Git has a mutable index called stage.
 
 ### second change from localhost
 
+
+
+
+
+Creating a new branch is quick.
