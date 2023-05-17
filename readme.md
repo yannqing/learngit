@@ -18,4 +18,7 @@ Creating a new branch is quick.
 
 
 
+<<<<<<< HEAD
 is master branch
+=======
+>>>>>>> dev
